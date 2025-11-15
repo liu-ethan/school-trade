@@ -23,7 +23,7 @@ spring:
     date-format: yyyy-MM-dd HH:mm:ss
 
 #文件路径
-baseUrl: http://localhost:8090
+baseUrl: http://localhost:8080
 #C:/exam/xxx/pic  注意这个文件夹路径最好不要有中文，容易出问题！！
 userFilePath: D:\code\school-trade\pic
 
